@@ -1,11 +1,12 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline"
+category : General
+tagline: ""
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
 
+{{ site.url }}/assets/comics/Library/index.html
 
 I must not fear.
 Fear is the mind-killer.
