@@ -7,9 +7,12 @@ tags : [comics, collection]
 {% include JB/setup %}
 
 bingo<br>
-<iframe src="http://minisec.github.io/assets/comics/Library/index.html"
-        seamless="seamless">  </iframe>
-{{ site.url }}/assets/comics/Library/index.html
+<div style="margin: 0 auto; width:100%;">
+    <object type="text/html" data="http://minisec.github.io/assets/comics/Library/index.html"
+            style="width:100%; height:100%; margin:1%;">
+    </object>
+</div>
+
 
 I must not fear.<br>
 Fear is the mind-killer.<br>
