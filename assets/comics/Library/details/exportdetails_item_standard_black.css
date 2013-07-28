@@ -1,0 +1,133 @@
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#fff;
+   background-color:#212121;
+	margin:10px;
+}
+#topbar {
+	font-size:15pt;
+}
+#indexvalue {
+	font-size:14pt;
+}
+.fieldvaluelarge {
+	font-size:13pt;
+}
+.fieldlabel {
+	font-size:8pt;
+}
+.fieldvalue {
+	font-size:8pt;
+}
+.character {
+	font-size:8pt;
+}
+.navlink {
+	font-size:8pt;
+}
+.navlink a {
+	font-size:8pt;
+}
+a:link, a:visited {
+	text-decoration:underline;
+	color:#41A9DE;
+} 
+a:hover {
+	text-decoration:underline;
+	color:#41A9DE;
+}
+.header {
+   font-weight:bold;
+	color:#41A9DE;
+	font-size:11pt;
+}
+.publisher {
+	font-size:15pt;
+   font-weight:bold;
+}
+#maintitle {
+	font-weight:bold;
+	font-size:18pt;
+	color:#41A9DE;
+}
+#formatfield {
+	font-size:16pt;
+	font-weight:bold;
+	color:#FFF;
+}
+img {
+  border:none;
+}
+#backcoverwrap {
+	float:left;
+	margin-bottom:10px;
+	height:250px;
+}
+#frontcover {
+	float:left;
+	margin-bottom:10px;
+	margin-right:5px;
+	height:250px;
+}
+#backcover {
+	float:right;
+	margin-bottom:10px;
+	height:250px;
+}
+img.coverimage {
+   border:none;
+	height:250px;
+}
+#indexvalue {
+	font-weight:bold;
+}
+#productdetails {
+	margin-bottom:10px; 
+}
+#personaldetails {
+	margin-bottom:10px;
+}
+#imagefiles {
+	clear:both;
+}
+img.imagefile {
+	height:100px;
+}
+#notes {
+	clear:both;
+}
+#stories {
+	clear:both;
+}
+.fieldvalue {
+	font-weight:bold;
+	padding-left:5px;
+}
+.character {
+	font-weight:bold;
+}
+.searchresult {
+  color:Black;
+  background-color:#FFFF93;
+}
+.navigation {
+  padding-top:5px;
+  padding-bottom:5px;
+}
+.navlink {
+  padding-left:20px;
+  padding-right:20px;
+  text-align:center;
+  display:inline;
+  color:White;	
+  font-size:12pt;
+  font-weight:bold;
+}
+.navlink a {
+	color:White;
+	font-weight:bold;
+}
+.navlink a:hover {
+	color:#41A9DE;
+}
