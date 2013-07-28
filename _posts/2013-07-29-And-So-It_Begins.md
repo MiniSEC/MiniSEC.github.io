@@ -6,7 +6,7 @@ tags : [comics, collection]
 ---
 {% include JB/setup %}
 
-<iframe width=100% height=100% src="{{ site.url }}/assets/comics/Library/index.html"</iframe>
+<iframe src="{{ site.url }}/assets/comics/Library/index.html"</iframe>
 {{ site.url }}/assets/comics/Library/index.html
 
 I must not fear.
