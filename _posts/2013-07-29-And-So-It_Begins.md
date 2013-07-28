@@ -2,7 +2,7 @@
 layout: post
 category : General
 tagline: ""
-tags : [intro, beginner, jekyll, tutorial]
+tags : [comics, collection]
 ---
 {% include JB/setup %}
 
