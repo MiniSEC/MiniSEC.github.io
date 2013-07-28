@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Supporting tagline"
+tagline: "This is The Song that Never Ends"
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
