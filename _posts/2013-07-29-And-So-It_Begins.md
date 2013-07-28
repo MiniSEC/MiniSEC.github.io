@@ -7,8 +7,8 @@ tags : [comics, collection]
 {% include JB/setup %}
 
 bingo<br>
-<iframe width="420" height="315" src="http://minisec.github.io/assets/comics/Library/index.html"
-        frameborder="0" allowfullscreen="allowfullscreen">  </iframe>
+<iframe src="http://minisec.github.io/assets/comics/Library/index.html"
+        seamless="seamless">  </iframe>
 {{ site.url }}/assets/comics/Library/index.html
 
 I must not fear.<br>
