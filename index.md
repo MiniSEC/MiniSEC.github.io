@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-# Sample Posts
+# Posts
 
 Here's the Available Posts.
 
