@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Supporting tagline"
+tagline: 
 tags : [Simplicity]
 ---
 {% include JB/setup %}
@@ -14,6 +14,8 @@ Fundamentals of SECURITY...<br>
 
 I firmly believe that 80% of security happens with fundamental design. Industry wide we have this obsession with the difference between "External" and "Internal" networks. We need to get our heads on straight. We think tactically. There are very few "trusted" networks. 
 
-Fundamentals are not sexy, and some of it might "fly in the face" of what the industry is trying to sell you right now, but there is a reason we call them Best Practices, its because they work, and the "no two environments are the same" argument does not fly here... Repeatable, Reusable, and Secure. Along the way we will cover how fundamental design improves your ability to move to THE CLOUD, do disaster recovery, implement BYOD and secure all the things you really care about.
+Fundamentals are not sexy, and some of it might "fly in the face" of what the industry is trying to sell you right now, and many of the things we call "Best Practices" simply are not. The "no two environments are the same" argument does not fly here... Repeatable, Reusable, and Secure. 
+
+If we ever hope to have secure environments lets borrow some ideas from what we expect of software development, but more then anything lets keep it simple.
 
 I welcome and encourage you to contact me. Comments, Emails, Tweets... Bring it on...
