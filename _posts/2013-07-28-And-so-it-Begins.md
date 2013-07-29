@@ -6,7 +6,7 @@ tags : [Simplicity]
 ---
 {% include JB/setup %}
 
-In my time in the IT Industry, both sysadmin and security, I have always believed that we are not looking at the problem through the right prism. The paradigms from the 80's and the 90's of what a "Enterprise" network is, do not seem to apply now. Security breaks down to Fundamentals...
+<img src="/assets/img/vpkwhh.jpg" width="40%" style="float:left;margin:0 5px 0 0;" alt="Source: Unknown" /> In my time in the IT Industry, both sysadmin and security, I have always believed that we are not looking at the problem through the right prism. The paradigms from the 80's and the 90's of what a "Enterprise" network is, do not seem to apply now. Security breaks down to Fundamentals...
 
 Fundamentals of infrastructure design...<br>
 Fundamentals of operations...<br>
