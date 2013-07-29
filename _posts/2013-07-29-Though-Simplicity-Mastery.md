@@ -29,4 +29,4 @@ Does it directly support equipment that keeps people alive? Bet you answered no.
 There are few exceptions to the above 2 questions, so why do we all think that we are so special and that our challenges are so different? 
 
 > A punch is just a punch.
-There is no reason that we should not be keeping it simple. If we want to be masters, lets do the minimum.m
+There is no reason that we should not be keeping it simple. If we want to be masters, lets do the utmost with the minimum.
