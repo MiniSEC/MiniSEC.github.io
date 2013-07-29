@@ -1,11 +1,9 @@
 ---
 layout: page
-title: And So It Begins
+title:
 tagline: 
 ---
 {% include JB/setup %}
-
-# Posts
 
 Here's the Available Posts.
 
