@@ -9,7 +9,7 @@ tags : [comics, collection]
 bingo<br>
 <div style="margin: 0 auto; width:100%;">
     <object type="text/html" data="http://minisec.github.io/assets/comics/Library/index.html"
-            style="width:100%; height:800px; margin:1%;">
+            style="width:100%; height:1700px; margin:1%;">
     </object>
 </div>
 
