@@ -19,8 +19,6 @@ tagline:
 	</div>
 </div>
 
-<hr>
-
 <div class="row-fluid">  
 	<div class="span4">
 		Last 5 Posts:
