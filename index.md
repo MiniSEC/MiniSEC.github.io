@@ -13,6 +13,7 @@ Here's the newest Post.
 			<h2>{{ post.title }}</h2>
 			<h4>{{ post.date | date_to_long_string }}</h4>
 			<p>
+			<img src="{{post.image}}" width="40%" style="float:left;margin:0 5px 0 0;" />
 			{{post.content}}
 			</p>
 		{% endfor %}
