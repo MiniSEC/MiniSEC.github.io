@@ -21,7 +21,7 @@ tagline:
 
 <hr>
 
-<div class="row">  
+<div class="row-fluid">  
 	<div class="span4">
 		<p>Last 5 Posts:</p>
 		<ul class="posts">
