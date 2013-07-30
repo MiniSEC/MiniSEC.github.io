@@ -5,12 +5,17 @@ tagline:
 ---
 {% include JB/setup %}
 
-Here's the Available Posts.
+Here's the newest Post.
 
 <div class="row">
-	<div class="blog-index">  
-		{% assign post = site.posts.first %}
-		{% assign content = post.content %}
+	<div class="span12">  
+		{% for post in site.posts limit: 1 %}
+			<h2>{{ post.title }}</h2>
+			<h4>{{ post.date | date_to_long_string }}</h4>
+			<p>
+			{{post.content}}
+			</p>
+		{% endfor %}
 	</div>
 </div>
 
