@@ -5,10 +5,10 @@ tagline:
 ---
 {% include JB/setup %}
 
-Here's the newest Post.
-
 <div class="row">
-	<div class="span12">  
+	<div class="span1">
+	</div>
+	<div class="span11">  
 		{% for post in site.posts limit: 1 %}
 			<h2>{{ post.title }}</h2>
 			<h4>{{ post.date | date_to_long_string }}</h4>
@@ -19,7 +19,9 @@ Here's the newest Post.
 		{% endfor %}
 	</div>
 </div>
+
 <hr>
+
 <div class="row">  
 	<div class="span4">
 		<p>Here's Posts</p>
