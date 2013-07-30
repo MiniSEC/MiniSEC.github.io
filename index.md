@@ -14,6 +14,7 @@ tagline:
 			<img src="{{post.image}}" width="40%" style="float:left;margin:0 5px 0 0;" />
 			{{post.content}}
 			</p>
+			<a href="{{ BASE_PATH }}{{ post.url }}">Clcik her to Comment</a>
 			<hr>
 		{% endfor %}
 	</div>
