@@ -19,7 +19,7 @@ Here's the newest Post.
 		{% endfor %}
 	</div>
 </div>
-
+<hr>
 <div class="row">  
 	<div class="span4">
 		<p>Here's Posts</p>
