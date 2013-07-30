@@ -30,7 +30,7 @@ tagline:
 		</ul>
 	</div>  
 	<div class="span4">
-		<p>Something interesting here Soon!</p>
+		<p></p>
 	</div>  
 	<div class="span4">
 		<p>About the Ministry</p>
