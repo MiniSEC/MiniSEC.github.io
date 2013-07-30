@@ -23,7 +23,7 @@ tagline:
 
 <div class="row-fluid">  
 	<div class="span4">
-		<p>Last 5 Posts:</p>
+		Last 5 Posts:
 		<ul class="posts">
 			{% for post in site.posts limit: 5 %}
 			<li>
