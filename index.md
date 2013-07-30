@@ -4,7 +4,7 @@ title:
 tagline: 
 ---
 {% include JB/setup %}
-
+b
 <div class="row-fluid">
 	<div class="span12">  
 		{% for post in site.posts limit: 1 %}
