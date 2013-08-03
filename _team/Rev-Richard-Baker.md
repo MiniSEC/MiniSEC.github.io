@@ -1,6 +1,5 @@
 ---
 layout: page
-active: true
 bio:
   This is a sample person's bio.
 email: sample@person.com
