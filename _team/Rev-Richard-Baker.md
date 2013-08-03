@@ -4,7 +4,7 @@ bio: This is a sample person's bio.
 email: sample@person.com
 github: sampleperson
 image:
-imageurl: /images/sample-person.jpg
+imageurl: /assets/img/Revhead.jpg
 imagetitle: Sample Person
 imagealt: Sample Person
 imageattribution:
