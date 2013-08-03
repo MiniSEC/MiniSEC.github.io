@@ -19,7 +19,6 @@ website: http://sampleperson.com/
 ---
 {% include JB/setup %}
 
-<div class="row-fluid">
   <div class="span4">
     {% if page.imageurl %}
       <div>
@@ -51,4 +50,3 @@ website: http://sampleperson.com/
       {% endif %}
     </ul>
   </div>
-</div>
