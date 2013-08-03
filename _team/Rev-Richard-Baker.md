@@ -20,7 +20,7 @@ twitter: sampleperson
 type: employee
 website: http://sampleperson.com/
 ---
-<div id="profile" class="row">
+<div class="row">
   <div class="span4">
     {% if page.image %}
       <div id="profile-photo">
@@ -29,7 +29,7 @@ website: http://sampleperson.com/
     {% endif %}
   </div>
 
-  <div class="span11">
+  <div class="span8">
     <h1>
       {{ page.name }}
       <small>{{ page.role }}</small>
