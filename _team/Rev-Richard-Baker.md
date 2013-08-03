@@ -1,29 +1,29 @@
 ---
 layout: page
-bio:
-  This is a sample person's bio.
+bio: This is a sample person's bio.
 email: sample@person.com
 github: sampleperson
 image:
-  url: /images/sample-person.jpg
-  title: Sample Person
-  alt: Sample Person
-  attribution:
+imageurl: /images/sample-person.jpg
+imagetitle: Sample Person
+imagealt: Sample Person
+imageattribution:
 layout: profile
 linkedin: sampleperson
 name: Rev. Richard E. Baker
 role: Founder & CEO
-short:
-  <a href="/team/sample-person">Sample Person</a> is the founder and CEO of the company.
+short: <a href="/team/sample-person">Sample Person</a> is the founder and CEO of the company.
 twitter: sampleperson
 type: employee
 website: http://sampleperson.com/
 ---
+{% include JB/setup %}
+
 <div class="row">
   <div class="span4">
-    {% if page.image %}
+    {% if page.imageurl %}
       <div id="profile-photo">
-        <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" width="200" height="200" />
+        <img src="{{ page.imageurl }}" title="{{ page.imagetitle }}" alt="{{ page.imagealt }}" width="200" height="200" />
       </div>
     {% endif %}
   </div>
