@@ -19,13 +19,22 @@ website: http://sampleperson.com/
 ---
 {% include JB/setup %}
 
-<div class="row">
+<div class="row-fluid">
   <div class="span4">
     {% if page.imageurl %}
-      <div id="profile-photo">
+      <div>
         <img src="{{ page.imageurl }}" title="{{ page.imagetitle }}" alt="{{ page.imagealt }}" width="200" height="200" />
       </div>
     {% endif %}
+	<ul>
+      {% if page.linkedin %}
+        <li><a href="http://www.linkedin.com/in/{{ page.linkedin }}">Connect on LinkedIn</a></li>
+      {% endif %}
+
+      {% if page.twitter %}
+        <li><a href="http://twitter.com/{{ page.twitter }}">Follow on Twitter</a></li>
+      {% endif %}
+    </ul>
   </div>
 
   <div class="span8">
@@ -37,14 +46,6 @@ website: http://sampleperson.com/
     {{ page.bio }}
 
     <ul>
-      {% if page.linkedin %}
-        <li><a href="http://www.linkedin.com/in/{{ page.linkedin }}">Connect on LinkedIn</a></li>
-      {% endif %}
-
-      {% if page.twitter %}
-        <li><a href="http://twitter.com/{{ page.twitter }}">Follow on Twitter</a></li>
-      {% endif %}
-
       {% if page.github %}
         <li><a href="http://github.com/{{ page.github }}">Follow on GitHub</a></li>
       {% endif %}
