@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Sample Portfolio Layout
+title: Portfolio
 ---
-<div class="span16">
-  <h1>Our Portfolio</h1>
-
+<div class="span12">
+  <h2>We have worked with some great Companies!</h2>
+	Check out these awesome projects we have worked on.
   <ul id="projects">
     {% for project in page.projects %}
-      <li class="project span5">
+      <li class="span4">
         <a href="/portfolio/{{ project[0] }}">
           {% if project[1].image %}
             <img src="{{ project[1].image.url }}" title="{{ project[1].image.title }}" alt="{{ project[1].image.alt }}" />

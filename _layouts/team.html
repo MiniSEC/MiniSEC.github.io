@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Sample Team Layout
+group: navigation
+title: Team
+header: Ministry Staff & Contributors
 ---
 
 <div id="team-page">
   {% if page.team['employee'] %}
-    <h2>Core Team Members</h2>
+    <h2><small>Core Team Members</small></h2>
 
     <ul class="team row">
       {% for person in page.team['employee'] %}

@@ -7,7 +7,7 @@ endorsements:
   from: Endorser Name
   role: Project Manager
 image:
-  url: /images/sample-project.jpg
+  url: /assets/img/cone.jpg
   title: Sample Project
   alt: Sample Project
 layout: project

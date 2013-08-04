@@ -7,6 +7,7 @@ image : /assets/img/simplicity.jpg
 image1 : /assets/img/simplicity1.jpg
 image2 : /assets/img/simplicity-DaVinci.png
 image3 : /assets/img/simplicity-Lee.jpg
+author: Rev Richard Baker
 ---
 {% include JB/setup %}
 

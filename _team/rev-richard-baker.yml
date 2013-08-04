@@ -1,0 +1,19 @@
+active: true
+bio:
+  This is a sample person's bio.
+email: richardebaker@gmail.com.com
+github: RevREB
+image:
+  url: /assets/img/revhead.jpg
+  title: Rev. Richard E. Baker
+  alt: RevREB
+  attribution:
+layout: profile
+linkedin: richardebaker
+name: Rev. Richard E. Baker
+role: Founder & CEO
+short:
+  <a href="/team/sample-person">Sample Person</a> is the founder and CEO of the company.
+twitter: richardebaker
+type: employee
+website: http://sampleperson.com/
