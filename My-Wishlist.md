@@ -8,6 +8,6 @@ tags : [comics, wishlist]
 
 <div style="margin: 0 auto; width:100%;">
     <object type="text/html" data="http://minisec.github.io/assets/comics/Wishlist/index.html"
-            style="width:100%; height:auto; margin:1%;scrolling="no"">
+            style="width:100%; height:auto; margin:1%;">
     </object>
 </div>
