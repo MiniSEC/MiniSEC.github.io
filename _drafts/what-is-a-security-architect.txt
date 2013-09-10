@@ -1,0 +1,13 @@
+Just like an architect designing a building, has to interview the "client" and and provide a solution that meets both the aesthetic and functional requirements. The security architect must take the time to interview, and understand the needs of the business/organization. 
+
+It is not enough to just be a practitioner, a security architect needs to understand the meta. To be able to see through the BS and internal politics. To provide a framework that supports the org's mission, and protects what is truly important. The security architect must craft that framework so that compliance is a by-product of a well integrated security framework, not the goal. 
+
+Some time it means preaching about networking issues, sometimes about SDLC. Some times its about just getting documentation in place, and sometimes its about remediation after an incident and incorporating lessons learned. 
+
+In small organizations it means being the hands on guy too, but maybe it means cross training the Network guys in IDS's and monitoring, maybe its cross training the SysAdmins on log collection and monitoring, maybe its being a champion for getting Secure coding training for the programmers. 
+
+What is a Security Architect. He is an 80%'er, from business to tech he has to understand 80% of everyone's job, so that he can help the SME' who know the other 20% to be a little more secure. 
+
+Hell lets be honest, in most org's the Security Architect is the closest thing they will ever have to a CISO. Its about being able to wear lots of hats, rolling with the tide, and standing your ground when its a black or white issue. It's not about tools, or vendors, or staff. 
+
+Being a Security Architect is about shepherding the org from the easy path to the secure one.
