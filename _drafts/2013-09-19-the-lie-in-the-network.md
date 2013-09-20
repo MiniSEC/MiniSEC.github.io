@@ -24,9 +24,9 @@ Office networks, datacenter networks, it doesn't matter, as an industry we have 
 
 ![If you cant explain it simply, you don't understand it well enough.]({{page.image1}})
 
-Why, oh why, do modern networks do ANYTHING other then isolated ports that require L3 connectivity, 802.1x to control physical connectivity, high capacity aggregation switches, full speed tap's and BGP between aggregation points? Why aren't networks ALWAYS as simple as: ![Simple!]({{page.image2}})
+"Networking Best Practices" have failed. Those standards build unmaintainable networks that have no place in the modern computing world. BYOD, cloud, remote workers, are all tearing down the crumbling wall of segmentation and control. The whole IT industry started down a bad road way back in 1984-85 at the dawn of the Ethernet age, we compounded it by buying into the lie of firewalls, and VLANS and we continue it everyday that we build to current "best practices". Networks need to be simplified. Isolated ports that require L3 connectivity, 802.1x to control physical connectivity, high capacity aggregation switches, full speed tap's and BGP between aggregation points are all that is required. Why aren't networks ALWAYS as simple as: ![Simple!]({{page.image2}})
 
-It boils down to relying on "best practices" that don't have a place in the modern computing world. BYOD, cloud, remote workers, are all tearing down that crumbling wall of "best practice". As an industry we started down a bad road way back in 1984-85 at the dawn of the Ethernet age, we compounded it by buying into the lie of firewalls, and we continue it everyday that we don't accept that the network toolbox, is not the right place to put the burden of security.
+Why? Becasue we make them harder.
 
 We've all heard the quote about two roads diverging, lets take that less travelled one, lets build something that is truly sustainable, truly resilient, truly simple! Remove the unnecessary, and place the responsibility where it belongs. Security cannot be bolted on it must be built in, and that will require changes in how we think about the entire stack, but it STARTS with the network.
 
