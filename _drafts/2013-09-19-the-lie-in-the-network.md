@@ -26,7 +26,9 @@ No matter the industry, no matter the market sector (with few exceptions), why d
 ![servicestack]({{page.image3}})
 stoping the lie means that, as an industry, we accept that no network, is special, that its always just Infrastructure-as-a-Service.  lets face it, the sowftware that you run might change from company to company, but it all works over IPv4/6. What makes your network a special snowflake? be honest. what is so special about your network?
 
-Why add complexity? Complexity adds RISK, increases tech debit and human error potential.
+Why add complexity? Complexity is RISK...
+
+“Complexity is the path to the Compromise. Complexity leads to Misconfiguration. Misconfigurtion leads to Vulnerability. Vulnerability leads to Compromise.”
 
 We've all heard the quote about two roads diverging, lets take that less travelled one, lets build something that is truly sustainable, truly resilient, truly simple! Remove the unnecessary, and place the responsibility where it belongs. Security cannot be bolted on it must be built in, and that will require changes in how we think about the entire stack, but it STARTS with the network.
 
